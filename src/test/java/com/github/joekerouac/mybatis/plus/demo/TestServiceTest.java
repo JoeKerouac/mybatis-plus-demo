@@ -32,7 +32,7 @@ public class TestServiceTest {
         List<UserEntity> entities2 = list.get(1).getRecords();
 
         Assert.assertEquals(entities1.size(), entities2.size());
-        Assert.assertNotEquals(entities1.get(0), entities2.get(0));
+        Assert.assertEquals(entities1.get(0), entities2.get(0));
     }
 
     @Test
