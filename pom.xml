@@ -16,7 +16,7 @@
 
     <properties>
 <!--        <mybatisplus.version>3.0.7.1</mybatisplus.version>-->
-        <mybatisplus.version>3.1.0</mybatisplus.version>
+        <mybatisplus.version>3.1.1</mybatisplus.version>
         <druid.version>1.1.13</druid.version>
     </properties>
 
